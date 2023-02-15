@@ -1,12 +1,11 @@
 <h1 align="center"> Tec-Blog </h1>
-<hr>
 
 <hr>
 <p align="center">
  <img width="900px" src="https://user-images.githubusercontent.com/103331086/219095551-4895bef7-c0d7-46b4-92c4-a47a614e3c26.PNG" />
 </p>
 
-
+<hr>
 
 ### 📚 Sobre
 
